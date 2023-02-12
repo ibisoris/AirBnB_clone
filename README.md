@@ -1,5 +1,5 @@
 # This project tasks us to create a full web application:
-# The AirBnB Clone
+# The AirBnB Clone project
 
 During this project, we will be have to put different 
 pieces together in order for this project to be a 
