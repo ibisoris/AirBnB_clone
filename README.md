@@ -8,7 +8,7 @@ This is the first part of the AirBnB clone project where we worked on the backen
 Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python.
 
 ***
-Description of the Command Interpreter:
+## Description of the Command Interpreter:
 ***
 The interface of the application is just like the Bash shell except that this has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
 
@@ -41,21 +41,10 @@ These instructions will get you a copy of the project up and running on your loc
 It can work in two different modes:
 
 Interactive and Non-interactive.
-
+i
 In Interactive mode, the console will display a prompt (hbnb) indicating that the user can write and execute a command. After the command is run, the prompt will appear again a wait for a new command. This can go indefinitely as long as the user does not exit the program.
 
-``` $ ./console.py
-(hbnb) help
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-
-(hbnb) 
-(hbnb) 
-(hbnb) quit
-$ ```
-
+***
 
 ## This project tasks us to create a full web application:
 ## The AirBnB Clone project
