@@ -60,6 +60,6 @@ success.
 - Frontend integration
 
 ***
-## Author
+## Authors
 ***
 Ibinabo & Smith
