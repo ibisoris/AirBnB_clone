@@ -2,6 +2,7 @@ footer {
     background-color: #00FF00;
     height: 60px;
     width: 100%;
+<<<<<<< HEAD
     text-align: center;
     position: fixed;
     bottom: 0px;
@@ -12,3 +13,10 @@ span {
     display: table-cell;
     vertical-align: middle;
 }
+=======
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 60px;
+}
+>>>>>>> 75a96fad24cddb8557c678ee203b2953ce21ff41

@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     margin: 0px;
     padding: 0px;
     color: #484848;
@@ -11,4 +12,16 @@ body {
     margin: 0 auto;
     margin-top: 30px;
     margin-bottom: 30px;
+=======
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular, "Helvetica Neue", Arial, sans-serif;
+}
+div.container {
+    max-width: 1000px;
+    margin: 30px auto;
+    /* text-align: center; */
+>>>>>>> 75a96fad24cddb8557c678ee203b2953ce21ff41
 }
